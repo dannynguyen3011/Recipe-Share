@@ -1,0 +1,109 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "date": "2024-03-15",
+      "title": "New Italian Restaurant Opens Downtown",
+      "content": "A new authentic Italian restaurant, 'La Cucina', opens its doors this weekend. The restaurant features traditional recipes passed down through generations.",
+      "category": "Restaurant News"
+    },
+    {
+      "id": "2",
+      "date": "2024-03-14",
+      "title": "Cooking Workshop Series Announced",
+      "content": "Local chefs are organizing a series of cooking workshops focusing on international cuisines. Sessions will be held weekly starting next month.",
+      "category": "Events"
+    },
+    {
+      "id": "3",
+      "date": "2024-03-13",
+      "title": "Sustainable Cooking Tips",
+      "content": "Expert chefs share their top tips for sustainable cooking practices, including reducing food waste and using eco-friendly ingredients.",
+      "category": "Tips & Tricks"
+    },
+    {
+      "id": "4",
+      "date": "2024-03-12",
+      "title": "Food Festival Coming This Summer",
+      "content": "The annual International Food Festival announces dates for this summer's event, featuring cuisines from over 30 countries.",
+      "category": "Events"
+    },
+    {
+      "id": "5",
+      "date": "2024-03-11",
+      "title": "New Cooking App Launch",
+      "content": "A revolutionary cooking app that helps users plan meals and track ingredients launches today, featuring AI-powered recipe recommendations.",
+      "category": "Technology"
+    },
+    {
+      "id": "6",
+      "date": "2024-03-10",
+      "title": "Chef Maria Wins Top Award",
+      "content": "Local chef Maria Rodriguez wins prestigious culinary award for her innovative fusion cuisine combining Mexican and Asian flavors.",
+      "category": "Awards"
+    },
+    {
+      "id": "7",
+      "date": "2024-03-09",
+      "title": "Healthy Eating Guide Released",
+      "content": "New comprehensive guide to healthy eating habits published, featuring expert advice and easy-to-follow meal plans.",
+      "category": "Health"
+    },
+    {
+      "id": "8",
+      "date": "2024-03-08",
+      "title": "Organic Market Expansion",
+      "content": "Popular organic food market announces expansion to three new locations, bringing fresh, organic produce to more neighborhoods.",
+      "category": "Market News"
+    },
+    {
+      "id": "9",
+      "date": "2024-03-07",
+      "title": "Baking Competition Winners",
+      "content": "Results of the annual city baking competition announced, showcasing incredible talent in pastry making and cake decoration.",
+      "category": "Events"
+    },
+    {
+      "id": "10",
+      "date": "2024-03-06",
+      "title": "New Food Safety Guidelines",
+      "content": "Updated food safety guidelines released for home cooking, including new recommendations for food storage and preparation.",
+      "category": "Safety"
+    },
+    {
+      "id": "11",
+      "date": "2024-03-05",
+      "title": "Restaurant Week Begins",
+      "content": "Annual Restaurant Week kicks off with special menus and deals from over 50 participating restaurants across the city.",
+      "category": "Events"
+    },
+    {
+      "id": "12",
+      "date": "2024-03-04",
+      "title": "Seasonal Recipe Collection",
+      "content": "New collection of spring recipes released, featuring fresh, seasonal ingredients and light, refreshing dishes.",
+      "category": "Recipes"
+    },
+    {
+      "id": "13",
+      "date": "2024-03-03",
+      "title": "Food Photography Workshop",
+      "content": "Professional food photographers host workshop on capturing stunning food images for social media and blogs.",
+      "category": "Events"
+    },
+    {
+      "id": "14",
+      "date": "2024-03-02",
+      "title": "Kitchen Gadget Reviews",
+      "content": "Comprehensive review of the latest kitchen gadgets and appliances to help home cooks make informed purchases.",
+      "category": "Reviews"
+    },
+    {
+      "id": "15",
+      "date": "2024-03-01",
+      "title": "Food Waste Reduction Initiative",
+      "content": "City launches new initiative to reduce food waste in restaurants and households, including educational programs and resources.",
+      "category": "Sustainability"
+    }
+  ]
+} 

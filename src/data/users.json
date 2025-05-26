@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sarah Johnson",
+      "email": "sarah@recipe.com",
+      "password": "Recipe2024!",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Mike Chen",
+      "email": "mike@recipe.com",
+      "password": "Cooking2024!",
+      "createdAt": "2024-01-02T00:00:00.000Z"
+    }
+  ]
+} 

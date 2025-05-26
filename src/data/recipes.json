@@ -1,0 +1,140 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Italian",
+      "image": "/images/categories/italian.jpg",
+      "description": "Traditional Italian cuisine"
+    },
+    {
+      "id": "2",
+      "name": "Mexican",
+      "image": "/images/categories/mexican.jpg",
+      "description": "Authentic Mexican dishes"
+    },
+    {
+      "id": "3",
+      "name": "Asian",
+      "image": "/images/categories/asian.jpg",
+      "description": "Diverse Asian flavors"
+    },
+    {
+      "id": "4",
+      "name": "Desserts",
+      "image": "/images/categories/desserts.jpg",
+      "description": "Sweet treats and baked goods"
+    },
+    {
+      "id": "5",
+      "name": "Mediterranean",
+      "image": "/images/categories/mediterranean.jpg",
+      "description": "Healthy Mediterranean cuisine"
+    },
+    {
+      "id": "6",
+      "name": "American",
+      "image": "/images/categories/american.jpg",
+      "description": "Classic American comfort food"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Classic Margherita Pizza",
+      "category": "Italian",
+      "prepTime": "30 mins",
+      "cookTime": "15 mins",
+      "servings": 4,
+      "difficulty": "Medium",
+      "description": "Traditional Italian pizza with fresh mozzarella, tomatoes, and basil",
+      "image": "/images/recipes/margherita-pizza.jpg",
+      "ingredients": [
+        "1 pizza dough",
+        "200g fresh mozzarella",
+        "3 ripe tomatoes",
+        "Fresh basil leaves",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat oven to 450°F (230°C)",
+        "Roll out pizza dough",
+        "Top with sliced tomatoes and mozzarella",
+        "Bake for 12-15 minutes",
+        "Add fresh basil and olive oil"
+      ],
+      "votes": 150,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "2",
+      "title": "Beef Tacos",
+      "category": "Mexican",
+      "prepTime": "25 mins",
+      "cookTime": "20 mins",
+      "servings": 6,
+      "difficulty": "Easy",
+      "description": "Authentic Mexican tacos with seasoned ground beef and fresh toppings",
+      "image": "/images/recipes/beef-tacos.jpg",
+      "ingredients": [
+        "500g ground beef",
+        "12 corn tortillas",
+        "1 onion, diced",
+        "2 tomatoes, diced",
+        "Lettuce, shredded",
+        "Taco seasoning",
+        "Sour cream",
+        "Shredded cheese"
+      ],
+      "instructions": [
+        "Brown the ground beef",
+        "Add taco seasoning and water",
+        "Warm the tortillas",
+        "Assemble tacos with toppings"
+      ],
+      "votes": 120,
+      "createdAt": "2024-01-02"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Pad Thai",
+      "category": "Asian",
+      "prepTime": "35 mins",
+      "servings": 4,
+      "description": "Classic Thai stir-fried rice noodles with chicken and peanuts",
+      "image": "/images/pad-thai.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Chocolate Lava Cake",
+      "category": "Desserts",
+      "prepTime": "20 mins",
+      "servings": 2,
+      "description": "Decadent chocolate cake with a molten center",
+      "image": "/images/lava-cake.jpg"
+    }
+  ],
+  "team": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "role": "Head Chef",
+      "image": "/images/team/john.jpg",
+      "bio": "Professional chef with 15 years of experience"
+    },
+    {
+      "id": "2",
+      "name": "Maria Garcia",
+      "role": "Pastry Chef",
+      "image": "/images/team/maria.jpg",
+      "bio": "Specializes in European pastries and desserts"
+    },
+    {
+      "id": "3",
+      "name": "David Chen",
+      "role": "Recipe Developer",
+      "image": "/images/team/david.jpg",
+      "bio": "Creates and tests new recipes for Tastebite"
+    }
+  ]
+} 
